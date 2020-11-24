@@ -1,2 +1,5 @@
 # sacala_udemy
-Scala exercises from Udemy course
+
+Scala Beginners Rock The VM course:
+https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/
+
