@@ -1,4 +1,4 @@
-package part2oop
+package exercises.part2oop
 
 import lectures.part1basics.Utils.out
 
